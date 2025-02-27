@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import './App.css';
 import Search from './components/search/search';
 import Forecast from './components/search/forecast/forecast';
