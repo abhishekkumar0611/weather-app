@@ -1,3 +1,4 @@
+import React from "react";
 import { Accordion, AccordionItemHeading,AccordionItem, AccordionItemPanel, AccordionItemButton,  } from "react-accessible-accordion"
 import './forecast.css';
 const WEEK_DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday','Friday','Saturday', 'Sunday']
